@@ -1,7 +1,5 @@
-# SilverMoonLegend
+# 银月传说-魔兽争霸3 对抗地图
 <img src="https://github.com/Moerj/SilverMoonLegend/blob/main/cover.jpg"/>
-
-## 银月传说-魔兽争霸3 对抗地图
 
 本地图研发周期2008年 ~ 2023年，主要更新迭代在前5年，后续以维护为主。<br>
 
