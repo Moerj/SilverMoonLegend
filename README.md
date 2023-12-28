@@ -17,4 +17,4 @@
 ## 如何玩耍
 1. 目前建议使用 <a href="https://skywar3.com/" target="_blank">sky对战平台</a>、<a href="https://www.reckfeng.com/" target="_blank">kk对战平台</a>，搜索“银月传说”
 2. 银月传说和银月传说2，均是同款游戏，只是版本号不同。
-3. 若想招人一起玩，请加qq群68894516
+3. 若想找人一起玩，请加qq群68894516
