@@ -1,5 +1,5 @@
 # 银月传说-魔兽争霸3 PVP对抗地图
-<img src="https://github.com/Moerj/SilverMoonLegend/blob/main/%E5%B0%81%E9%9D%A2.jpg?raw=true"/>
+<img src="https://raw.githubusercontent.com/Moerj/SilverMoonLegend/main/banner.jpg"/>
 
 本地图研发周期2008年 ~ 2023年，主要更新迭代在前5年，后续以维护为主。<br>
 
