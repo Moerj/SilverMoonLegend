@@ -17,5 +17,5 @@
 由于win10以上dx渲染问题，导致魔兽简体中文会出现乱码，请使用乱码修复工具 https://github.com/Zonciu/War3FixFont
 
 ## 游戏下载
-- 对战平台请使用 <a href="https://skywar3.com/" target="_blank">sky对战平台</a>搜索“银月传说”
+- 对战平台请使用 <a href="https://skywar3.com/" target="_blank">sky对战平台</a> 和 <a href="https://www.5211game.com/" target="_blank">11对战平台</a>  平台中搜索“银月传说”
 - 魔兽本体游戏下载请进qq群68894516，在群文件中下载
