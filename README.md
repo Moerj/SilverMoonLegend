@@ -17,5 +17,5 @@
 由于win10以上dx渲染问题，导致魔兽简体中文会出现乱码，请使用乱码修复工具 https://github.com/Zonciu/War3FixFont
 
 ## 游戏下载
-- 对战平台有3个 <a href="https://www.reckfeng.com" target="_blank">KK对战平台</a> 、<a href="https://skywar3.com/" target="_blank">sky对战平台</a> 、 <a href="https://www.5211game.com/" target="_blank">11对战平台</a>
+- 对战平台请使用 <a href="https://www.reckfeng.com" target="_blank">KK对战平台</a>
 - 进入对战平台后搜索银月传说
