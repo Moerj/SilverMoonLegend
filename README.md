@@ -17,5 +17,11 @@
 由于win10以上dx渲染问题，导致魔兽简体中文会出现乱码，请使用乱码修复工具 https://github.com/Zonciu/War3FixFont
 
 ## 游戏下载
+- 魔兽争霸本体请自行准备，这里只提供本地图的下载。
+- 将上面的 .w3x 地图文件放入魔兽争霸3\Map\Download\
+- 运行游戏
+
+## 对战平台
+- 若使用对战平台则无需下载地图
 - 对战平台请使用 <a href="https://www.reckfeng.com" target="_blank">KK对战平台</a>
 - 进入对战平台后搜索银月传说
