@@ -19,9 +19,9 @@
 
 ## 游戏下载
 
-[https://pan.baidu.com/s/1ftK0M8-bmrmFojWF22hUGA?pwd=30tn](魔兽争霸本体下载点我)  
+[魔兽争霸3 v1.27下载](https://pan.baidu.com/s/1ftK0M8-bmrmFojWF22hUGA?pwd=30tn)  
 
-[https://github.com/Moerj/SilverMoonLegend/blob/main/Silver%20Moon%20Legend%20AI.w3x](魔兽争霸本体下载点我)  
+[银月传说AI 地图下载](https://github.com/Moerj/SilverMoonLegend/blob/main/Silver%20Moon%20Legend%20AI.w3x)  
 这里下载的地图是纯净版，没有任何三方插件，因此可以不依赖对战平台，本地单机可运行，且支持魔兽争霸重置版。
 
 ## 对战平台
