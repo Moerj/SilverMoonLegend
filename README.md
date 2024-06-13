@@ -19,10 +19,10 @@
 
 ## 游戏下载
 
-[魔兽争霸本体下载点我](https://pan.baidu.com/s/1ftK0M8-bmrmFojWF22hUGA?pwd=30tn)
+<a href="https://pan.baidu.com/s/1ftK0M8-bmrmFojWF22hUGA?pwd=30tn" target="_blank">魔兽争霸本体下载点我</a>
 
-[银月传说AI下载](https://github.com/Moerj/SilverMoonLegend/blob/main/Silver%20Moon%20Legend%20AI.w3x) 
-这里下载的地图是纯净版，没有任何三方插件，因此可以不依赖对战平台，本地单机运行，且支持魔兽争霸重置版。
+<a href="https://github.com/Moerj/SilverMoonLegend/blob/main/Silver%20Moon%20Legend%20AI.w3x" target="_blank">魔兽争霸本体下载点我</a>
+<p>这里下载的地图是纯净版，没有任何三方插件，因此可以不依赖对战平台，本地单机可运行，且支持魔兽争霸重置版。</p>
 
 ## 对战平台
 目前对战平台请使用 <a href="https://www.reckfeng.com" target="_blank">KK对战平台</a> 进入对战平台后搜索银月传说。
