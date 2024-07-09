@@ -21,8 +21,7 @@
 
 [魔兽争霸3 v1.27下载](https://pan.baidu.com/s/1ftK0M8-bmrmFojWF22hUGA?pwd=30tn)  
 
-[银月传说AI 地图下载](https://github.com/Moerj/SilverMoonLegend/blob/main/Silver%20Moon%20Legend%20AI.w3x)  
-这里下载的地图是纯净版，没有任何三方插件，因此可以不依赖对战平台，本地单机可运行，且支持魔兽争霸重置版。
+目前不提供地图直接下载，请登录kk对战平台搜索银月传说，即可直接进入游戏。
 
 ## 对战平台
 目前对战平台请使用 <a href="https://www.reckfeng.com" target="_blank">KK对战平台</a> 进入对战平台后搜索银月传说。
